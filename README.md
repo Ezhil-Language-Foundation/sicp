@@ -1,8 +1,10 @@
-SICP
-====
+SICP (கணினி   நிரலாக்கம்  இயல், கட்டமைப்பு  மற்றும்  செயல்படு)
+======================================================================
 
 <img src="http://sicpebook.files.wordpress.com/2013/09/smile0.png"
  alt="Par smiling" align="right" />
+
+இது  "SICP" என்ற   கணினி புத்தகத்தின்  தமிழ்  மொழி பெயர்ப்பு ஆகும்.
 
 This is a new HTML5 and EPUB3 version of "Structure and Interpretation of Computer Programs" by Abelson, Sussman, and Sussman. It comes from the lineage of [Unofficial Texinfo Format](http://www.neilvandyke.org/sicp-texi/) that was converted from the original [HTML version](http://mitpress.mit.edu/sicp/) at The MIT Press.
 
